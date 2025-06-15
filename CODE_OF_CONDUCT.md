@@ -45,7 +45,7 @@ If you experience or see behavior that goes against this Code of Conduct, **plea
 
 - Open an issue on GitHub (if safe to do so), or  
 - Contact a project maintainer privately:
-  - **Maintainer**: [@roushnisareen](https://github.com/roushnisareen)
+  - **Maintainer**: [@ISHAAN-KKR](https://github.com/ISHAAN-KKR)
 
 All reports will be handled respectfully and confidentially.
 
